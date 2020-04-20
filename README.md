@@ -41,18 +41,18 @@ Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una ve
 
 
 Podes utilizar la consola de Ruby de la derecha para ejecutar pruebas rápidas o crear archivos con códigos más complejos en la carpeta `test`, y luego ejecutarlos desde la **'Shell'** integrada.
-You can use the Ruby console on the right to run quick tests, or create more complex files in the `test` folder and execute them from the integrated shell.
-If the shell window is not displaying automatically, open it manually or with the ⌘⇧S shortcut (see the first picture below), and run your test files from there with `ruby test/name_of_the_file.rb`.
+
+Si la ventana de la **'Shell'** no aparece de manera automática, podés abrirla usando el atajo ⌘⇧S (ver foto a continuación). Una vez abierta, podrás correr tus archivos en la carpeta 'test' escribiendo `ruby test/nombre_del_archivo.rb`.
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/repl2.png)
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/repl3.png)
 
-After a session ends, switch to the `Version Control` tab and click `Pull` to get the new files from the lecture.
+Al final de la clase, cambiá a la pestaña `Version Control` y hace click en `Pull` para traer los nuevos archivos generados en la clase.
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/repl4.png)
 
-**N.B:** if the pull command doesn't work, it's probably because you edited some files you shouldn't touch! 🛑 Check which ones under `Changed files or folders`, and if they don't belong to the `test` folder, make them look exactly as the ones on GitHub, then click `Pull` again. If this doesn't help either, just come back here and follow the instructions again to create a new copy ☝️
+**Nota:** si al realizar un `Pull` no funciona, es muy probable de que hayas editado archivos que no podías editar! 🛑 Podes fijarte cuáles editaste en `Changed files or folders`, y si encontras alguno que no está dentro de la carpeta `test`, entonces tenés que hacerlos parecer igual a los que aparecen en este repositorio de GitHub. Una vez que sean iguales, ahora podrás hacer click en `Pull` otra vez. Si no funciona, entonces podes volver a este paso a paso, y realizar una nueva copia siguiendo los pasos descriptos anteriormente ☝️
 
 
 ## General overview
