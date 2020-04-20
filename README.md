@@ -25,7 +25,7 @@ Destaque el repositorio (con la '**Star**' arriba de todo) o simplemente marque 
 
 Cada archivo Ruby que encuentre en esta carpeta será subido por el profesor durante la sesión correspondiente. En las carpeta [`slides`](https://github.com/sbuffose/programming4everybody/tree/master/slides) podrás ver y descargar las diapositivas que compartimos durante nuestras clases.
 
-You'll also find a `test` folder in this repository. **Don't edit or delete any file outside this folder**: it's important to always keep your personal experiments in a separate place! 🧪
+A su vez, también encontrarás una carpeta `test` en el repositorio. **No debes editar o borrar ninguno de los archivos en esta carpeta**: es importante que guarde en otra carpeta todo lo que utilices para realizar pruebas personales usando código! 🧪
 
 ## Setup
 
