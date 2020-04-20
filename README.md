@@ -1,6 +1,6 @@
 ## Welcome!
 
-Esta carpeta contiene todos los documentos e información necesaría para el programa de webinars gratuitos 'Programming for Everybody' ofrecido por [Le Wagon](https://www.lewagon.com/buenos-aires). ¡Bienvenido! 🎉
+Esta carpeta contiene todos los documentos e información necesaría para el programa de webinars gratuitos 'Programación para todos' ofrecido por [Le Wagon](https://www.lewagon.com/buenos-aires). ¡Bienvenido! 🎉
 
 #### ⚠️ IMPORTANTE
 
@@ -29,7 +29,7 @@ A su vez, también encontrarás una carpeta `test` en el repositorio. **No debes
 
 ## Setup
 
-**Nota:** Esta es una serie de aprendizaje en línea gratuita, y nuestros profesores **no** podrán ayudarlo con la configuración de su computadora. Si está dando sus primeros pasos (no sabe Git, Ruby, qué es un terminal o cualquiera de las herramientas que estamos usando), mire los videos y, si se siente lo suficientemente seguro, use un **REPL** como descrito abajo. ¿Quieres aprender a configurar tu computadora como un profesional?**[¡Hacelo con nosotros!](#going-further)**
+**Nota:** Esta es una serie de aprendizaje en línea gratuita, y nuestros profesores **no** podrán ayudarlo con la configuración de su computadora. Si está dando sus primeros pasos (no sabe Git, Ruby, qué es un terminal o cualquiera de las herramientas que estamos usando), mire los videos y, si se siente lo suficientemente seguro, use un **REPL** como se describe abajo. ¿Quieres aprender a configurar tu computadora como un profesional?**[¡Hacelo con nosotros!](#going-further)**
 
 ### REPL
 
@@ -57,7 +57,7 @@ Al final de la clase, cambiá a la pestaña `Version Control` y hace click en `P
 
 ## General overview
 
-Our program has 10 lessons, following [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby):
+El programa tiene 10 sesiones, siguiendo el [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby):
 
 1. [`Introduction to Ruby`](https://github.com/sbuffose/programming4everybody/blob/master/01_introduction.rb)
 2. [`Control flow in Ruby`](https://github.com/sbuffose/programming4everybody/blob/master/02_control_flow.rb)
@@ -92,7 +92,7 @@ No te pierdas otros eventos Tech que publicamos en nuestro [EventBrite](https://
 
 ¿Querés conocer más sobre programación? **[Aplicá a Le Wagon](http://www.lewagon.com/buenos-aires/apply)**, y aprendé cómo crear el producto de tus sueños! 🚀
 
-Al completar este programa de 11 clases, **accederás a un 10% de descuento para nuestro programa de Web Development** (no acumulable con otros descuentos)!  Quedan pocos lugares para nuestro próximo programa, podés ver las fechas en nuestra web o [contactarnos](www.lewagon.com/buenos-aires).
+Al completar este programa de 11 clases, **accederás a un 30% de descuento para nuestro programa de Web Development** (no acumulable con otros descuentos)!  Quedan pocos lugares para nuestro próximo programa, podés ver las fechas en nuestra web o [contactarnos](www.lewagon.com/buenos-aires).
 
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/ba.jpg)
