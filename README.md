@@ -1,6 +1,6 @@
 ## Welcome!
 
-Esta carpeta contiene todos los documentos e información necesaría para el programa de webinars gratuitos 'Programming for Everybody' ofrecido por [Le Wagon](https://www.lewagon.com/buenos-aires). ¡Bienvenido! 🎉
+Esta carpeta contiene todos los documentos e información necesaría para el programa de webinars gratuitos 'Programación para todos' ofrecido por [Le Wagon](https://www.lewagon.com/buenos-aires). ¡Bienvenido! 🎉
 
 #### ⚠️ IMPORTANTE
 
