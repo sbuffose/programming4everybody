@@ -15,14 +15,13 @@ Como se explicó durante la presentación del programa, este curso es solo una e
 - [Uso](#uso)
 - [Setup](#setup)
   - [REPL](#repl)
-  - [Git and Ruby](#git-and-ruby)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
 - [Going further](#going-further)
 
 ## Uso
 
-Destaque el repositorio o simplemente marque la página en su navegador favorito.
+Destaque el repositorio (con la '**Star**' arriba de todo) o simplemente marque la página en su navegador cómo favorito.
 
 Cada archivo Ruby que encuentre en esta carpeta será subido por el profesor durante la sesión correspondiente. En las carpeta [`slides`](https://github.com/sbuffose/programming4everybody/tree/master/slides) podrás ver y descargar las diapositivas que compartimos durante nuestras clases.
 
@@ -36,8 +35,7 @@ You'll also find a `test` folder in this repository. **Don't edit or delete any 
 
 Podrás utilizar un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) para ver e interactuar con el código que compartimos en cada sesión.
 
-Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una vez que haya iniciado sesión, regresa acá y hace click en este botón 👉 [![Ejecutar en Repl.it](https://repl.it/)](https://repl.it/@SebastianBuffo/programming4everybody) para abrir este repositorio, y luego hacer click en [**'fork'**]() para guardar una copia en su colección personal de REPLs.
-
+Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una vez que haya iniciado sesión, regresa acá y hace click en este botón 👉 [![Ejecutar en Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everybody)](https://repl.it/@SebastianBuffo/programming4everybody) para abrir este repositorio, y luego hacer click en [**'fork'**]() para guardar una copia en su colección personal de REPLs.
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/repl1.png)
 
