@@ -55,7 +55,7 @@ Al final de la clase, cambiá a la pestaña `Version Control` y hace click en `P
 **Nota:** si al realizar un `Pull` no funciona, es muy probable de que hayas editado archivos que no podías editar! 🛑 Podes fijarte cuáles editaste en `Changed files or folders`, y si encontras alguno que no está dentro de la carpeta `test`, entonces tenés que hacerlos parecer igual a los que aparecen en este repositorio de GitHub. Una vez que sean iguales, ahora podrás hacer click en `Pull` otra vez. Si no funciona, entonces podes volver a este paso a paso, y realizar una nueva copia siguiendo los pasos descriptos anteriormente ☝️
 
 
-## [SETUP AVANZADO](https://github.com/sbuffose/programming4everybody/advanced-setup) - ¡No hacer solo!
+### [SETUP AVANZADO](https://github.com/sbuffose/programming4everybody/blob/master/advanced-setup/SETUP.md) - ¡No hacer solo!
 
 ## General overview
 
