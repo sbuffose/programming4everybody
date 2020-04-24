@@ -47,6 +47,6 @@ git reset --hard upstream/master
 ```
 
 
-## [AVANZADO] Configuración de la terminal para realizar el Bootcamp
+### [AVANZADO] Configuración de la terminal para realizar el Bootcamp
 
-**¡CUIDADO!** Esta configuración esta pensada para hacer junto a un profesor de [Le Wagon](https://www.lewagon.com/buenos-aires):
+**¡CUIDADO!** [Esta configuración](https://github.com/lewagon/setup) esta pensada para hacer junto a un profesor de [Le Wagon](https://www.lewagon.com/buenos-aires):
