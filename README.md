@@ -42,7 +42,7 @@ Primero tenés que [crear una cuenta en Repl.it](https://repl.it/signup). Una ve
 
 Podes utilizar la consola de Ruby de la derecha para ejecutar pruebas rápidas o crear archivos con códigos más complejos en la carpeta `test`, y luego ejecutarlos desde la **'Shell'** integrada.
 
-Si la ventana de la **'Shell'** no aparece de manera automática, podés abrirla usando el atajo ⌘⇧S (ver foto a continuación). Una vez abierta, podrás correr tus archivos en la carpeta 'test' escribiendo `ruby test/nombre_del_archivo.rb`.
+Si la ventana de la **'Shell'** no aparece de manera automática, podés abrirla usando el atajo ⌘⇧S (ver foto a continuación) o en windows CRTL + SHIFT + S. Una vez abierta, podrás correr tus archivos en la carpeta 'test' escribiendo `ruby test/nombre_del_archivo.rb`.
 
 ![](https://github.com/sbuffose/programming4everybody/raw/master/images/repl2.png)
 
