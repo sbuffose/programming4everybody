@@ -74,8 +74,16 @@ El programa tiene 10 sesiones, siguiendo el [Codecademy’s free Ruby track](htt
 
 ## Typical session
 
+BATCH #1: Lunes + Miércoles + Viernes
+
 - _19h00-19h25_ (GMT+1) **Clase en vivo** en [Zoom](https://app.livestorm.co/le-wagon-portugal) con profesores de Le Wagon's realizando 'codigo en vivo' para ayudar a entender los conceptos con ejemplos prácticos
 - _19h25-19h45_ **Sesión de preguntas y respuestas** en donde podrás realizar preguntas y respuestas (e incluso compartir pantalla con tus dudas)
+
+BATCH #2: Martes + Jueves + Sabádos
+
+- _18h00-19h25_ (GMT+1) **Clase en vivo** en [Zoom](https://app.livestorm.co/le-wagon-portugal) con profesores de Le Wagon's realizando 'codigo en vivo' para ayudar a entender los conceptos con ejemplos prácticos
+- _18h25-19h45_ **Sesión de preguntas y respuestas** en donde podrás realizar preguntas y respuestas (e incluso compartir pantalla con tus dudas)
+
 
 Para cada clase, te compartiremos por mail un link privado. Las sesiones en Zoom son **privadas**, y solo participantes aceptados podrán participar de las mismas 🔒
 
